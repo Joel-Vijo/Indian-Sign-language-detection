@@ -1,5 +1,5 @@
 # Indian-Sign-language-detection
-Using computer vision to detect different sign language and output its meaning in real time
+Using computer vision to detect different signs in real time and output its meaning 
 
 
 
